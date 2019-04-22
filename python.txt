@@ -1,0 +1,14 @@
+1)sudo apt install virtualenv
+2) virtualenv -p python3 venv
+3)pip install django
+4) virtualenv -p python3 venv
+5)source venv/bin/activate
+
+*****************************************************************************
+Starting django project
+################################################################################
+1)django-admin startproject project 
+2)python manage.py startapp  app_first
+3)python manage.py runserver
+
+
